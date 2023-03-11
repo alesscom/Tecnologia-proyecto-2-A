@@ -1,0 +1,11 @@
+body{
+	background-image: url("12345.jfif");
+	background-position: center;
+	background-size: cover;
+}
+.p{
+    font-size: x-large;
+}
+.h1{
+    font-size: xx-large;
+}
